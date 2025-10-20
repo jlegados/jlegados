@@ -1,48 +1,50 @@
-# Hey there, I'm Julianne 🌸
+<h1 align="center" style="font-family: 'Georgia', serif; font-weight: 600;">
+  Julianne Nicole Legados
+</h1>
 
-🎓 Computer Science @ Cal Poly, San Luis Obispo (Class of 2026)  
-💡 I love bringing ideas to life through **code, design, and collaboration.**  
-🌱 Currently exploring backend architecture, distributed systems, and creative web apps.  
-🐻 Fun fact: I built a EXO–inspired photo booth called [SnapBear](https://snapbear.netlify.app)!
-
----
-
-## 🛠️ What I Build
-
-**Full-Stack Apps** — blending React, FastAPI, and Node.js to make data feel intuitive.  
-**Interfaces with Purpose** — thoughtful UX using Figma, Astro, and clean design systems.  
+<p align="center">
+  <b>Computer Science @ Cal Poly, San Luis Obispo (Class of 2026)</b><br>
+  Building reliable, user-focused software that connects design with functionality.
+</p>
 
 ---
 
-## 🚀 Recent Highlights
+## ✦ What I Build
+
+**Full-Stack Applications** — combining React, FastAPI, and Node.js to create intuitive, data-driven tools.  
+**User Interfaces** — developing clean, accessible, and purpose-driven designs with Figma, Astro, and modern web frameworks.
+
+---
+
+## ✦ Selected Projects
 
 ### [SLOmotion](https://github.com/pchen50/SLOmotion)
-🎬 *Backend Developer — FastAPI · PostgreSQL · Docker*  
-A movie analytics dashboard built for performance and scalability.  
-> Automated database migrations with Alembic and deployed on Render.
+**Backend Developer — FastAPI · PostgreSQL · Docker**  
+Developed a movie analytics dashboard emphasizing performance and scalability.  
+Handled database migrations using Alembic and managed deployment on Render.
 
 ### [SLOutions](https://github.com/thzhu520/SLOutions)
-📊 *Full-Stack Developer — React · Express · MongoDB*  
-Created an interactive survey + visualization platform for campus projects.  
-> Designed the schema, backend APIs, and contributed to Agile sprints.
+**Full-Stack Developer — React · Express · MongoDB**  
+Built an interactive survey and visualization platform for campus research.  
+Designed the schema, implemented REST APIs, and contributed to Agile sprints.
 
 ### [SnapBear](https://snapbear.netlify.app)
-📸 *Astro · React · CSS · Netlify*  
-EXO-inspired browser photo booth with overlays, countdowns, and downloadable strips.  
-> Designed for fun, speed, and cross-device use.
+**Astro · React · CSS · Netlify**  
+Developed a browser-based photo booth featuring overlays, countdowns, and downloadable strips.  
+Optimized for responsiveness, accessibility, and cross-device use.
 
 ---
 
-## 💻 Tech I Use
+## ✦ Technical Skills
 
-**Languages:** Java · Python · C · JavaScript · SQL · HTML · CSS  
-**Frameworks:** React · Node.js · Express.js · FastAPI · Astro · Bootstrap  
-**Tools:** Docker · Git · Figma · VS Code · Netlify · GitHub Pages  
-**Concepts:** REST APIs · Responsive Design · UI/UX · Deployment Pipelines
+**Languages:** Java, Python, C, JavaScript, SQL, HTML, CSS  
+**Frameworks & Libraries:** React, Node.js, Express, FastAPI, Astro, Bootstrap  
+**Tools:** Docker, Git, Figma, VS Code, Netlify, GitHub Pages  
+**Core Concepts:** REST APIs, Responsive Design, UI/UX, Deployment Pipelines
 
 ---
 
-## 📈 My GitHub at a Glance
+## ✦ GitHub Overview
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jlegados&show_icons=true&theme=rose_pine&hide_border=true" />
@@ -51,7 +53,11 @@ EXO-inspired browser photo booth with overlays, countdowns, and downloadable str
 
 ---
 
-## 🌐 Connect with Me
+## ✦ Connect
 
-[💼 LinkedIn](https://www.linkedin.com/in/juliannenicolelegados) •   [💻 GitHub](https://github.com/jlegados) •  
-[📧 Email](mailto:juliannenicole94@gmail.com) •   [🪴 Portfolio](https://jlegados.github.io/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliannenicolelegados" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/jlegados" target="_blank">GitHub</a> • 
+  <a href="mailto:juliannenicole94@gmail.com">Email</a> • 
+  <a href="https://jlegados.github.io/" target="_blank">Portfolio</a>
+</p>
