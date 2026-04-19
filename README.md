@@ -17,15 +17,7 @@ I am especially interested in:
 
 ---
 
-## Selected Projects
-
-### Daily Music Recommendation Platform
-**React · Node.js · Express.js · Supabase · Deezer API**
-
-Built a full-stack web app that delivers a new daily song recommendation and lets users browse previous picks through an archive interface.  
-Implemented user accounts, listening streaks, saved songs, and sync/recovery flows to create a more personalized music experience.  
-Integrated the Deezer API for song metadata and preview clips, and supported daily song generation through backend scheduling.  
-:contentReference[oaicite:2]{index=2}
+## Projects
 
 ### SLO n Study
 **Kotlin · Jetpack Compose · OSMDroid · Overpass API**
@@ -49,16 +41,6 @@ Worked with PostgreSQL-backed data models and documented REST API endpoints to s
 Developed a full-stack survey platform for dynamic survey creation, response tracking, and analytics.  
 Designed backend APIs, database schemas, and queries, and contributed in Agile sprints focused on UI functionality and iteration.  
 :contentReference[oaicite:5]{index=5}
-
----
-## Technical Skills
-
-**Languages:** Java, Python, C, JavaScript, TypeScript, Kotlin, SQL, HTML, CSS, RISC-V Assembly  
-**Frameworks & Libraries:** React, Node.js, Express.js, FastAPI, Jetpack Compose, Astro, Bootstrap, Lit, OSMDroid  
-**Tools:** Git, Docker, VS Code, PyCharm, IntelliJ IDEA, MongoDB, GitHub Pages, Render, Netlify, Alembic  
-**Concepts:** REST APIs, responsive design, deployment pipelines, UI/UX design, client-side rendering  
-:contentReference[oaicite:7]{index=7}
-
 ---
 
 <p align="center">
