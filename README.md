@@ -25,7 +25,6 @@ I am especially interested in:
 Built an Android app to help students find study spots in San Luis Obispo, including cafes and libraries with study-friendly amenities.  
 Integrated OSMDroid and the Overpass API to display interactive map markers using OpenStreetMap data.  
 Used Jetpack Compose state hoisting to support reactive search, filtering, and dynamic updates to displayed locations.  
-:contentReference[oaicite:3]{index=3}
 
 ### SLOmotion
 **FastAPI · PostgreSQL · Docker · Alembic · Render**
@@ -33,14 +32,13 @@ Used Jetpack Compose state hoisting to support reactive search, filtering, and d
 Developed backend features for a movie-tracking analytics dashboard with a focus on scalability and maintainability.  
 Containerized the application with Docker, managed schema migrations using Alembic, and deployed backend services on Render.  
 Worked with PostgreSQL-backed data models and documented REST API endpoints to support testing and integration.  
-:contentReference[oaicite:4]{index=4}
 
 ### SLOutions
 **React · Node.js · Express.js · MongoDB**
 
 Developed a full-stack survey platform for dynamic survey creation, response tracking, and analytics.  
 Designed backend APIs, database schemas, and queries, and contributed in Agile sprints focused on UI functionality and iteration.  
-:contentReference[oaicite:5]{index=5}
+
 ---
 
 <p align="center">
