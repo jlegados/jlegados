@@ -61,3 +61,7 @@ Designed backend APIs, database schemas, and queries, and contributed in Agile s
 
 ---
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jlegados&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jlegados&theme=rose_pine&hide_border=true" />
+</p>
